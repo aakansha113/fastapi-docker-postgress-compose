@@ -13,3 +13,7 @@ def hello():
 @app.get("/welcome/")
 def welcome():
     return{"message":"hello welcome"}
+
+@app.get("/home/")
+def home():
+    return{"message":"its home tab"}
