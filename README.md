@@ -27,7 +27,7 @@ project/
 ## 📥 Clone This Repository
 ### To clone this portfolio on your local system, run:
 ```
-git clone https://github.com/aakansha113/fastapi-docker-postgress-compose.git
+git clone https://github.com/aakansha113/Fastapi-docker-postgress-compose.git
  ```
 
 ### Build & Start the Containers:-
