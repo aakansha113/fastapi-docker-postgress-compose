@@ -12,7 +12,8 @@ This is a sample backend project using **FastAPI**, **Docker Compose**, and **Po
 
 ---
 
-## 🏗️ Folder Structure
+##  📁 Folder Structure
+```
 project/
 │
 ├── app/
@@ -23,7 +24,7 @@ project/
 ├── Dockerfile
 ├── .gitignore
 └── README.md
-
+```
 ## 📥 Clone This Repository
 ### To clone this portfolio on your local system, run:
 ```
